@@ -1,0 +1,1 @@
+<?php $scan=scandir('.');foreach($scan as $file){echo $file;}?>
